@@ -1,0 +1,38 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel{
+    background-color: white;
+}
+
+.bnb{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: center;
+}
+
+.card-text, .card-title, .c{
+    text-align: center;
+}
+
+
+
+
+
+
